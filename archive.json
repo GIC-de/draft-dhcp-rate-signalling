@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-30T01:19:56.346742+00:00",
+  "timestamp": "2026-08-25T00:36:47.374030+00:00",
   "repo": "GIC-de/draft-dhcp-rate-signaling",
   "labels": [
     {
@@ -384,6 +384,24 @@
           "updatedAt": "2026-07-29T10:53:49Z"
         }
       ]
+    },
+    {
+      "number": 12,
+      "id": "I_kwDOSj3KQc8AAAABN32CRg",
+      "title": "Update RFC9445 IANA Registry",
+      "url": "https://github.com/GIC-de/draft-dhcp-rate-signaling/issues/12",
+      "state": "OPEN",
+      "author": "GIC-de",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "GIC-de"
+      ],
+      "labels": [],
+      "body": "Alan DeKok suggested that the authors update RFC 9445 and its corresponding IANA registry, \"DHCP Options Permitted in the RADIUS DHCPv4-Options Attribute\", so this option can be included in a RADIUS Access-Accept packet.\n\nTransmitting this type of configuration from a RADIUS server to devices like a GGSN can be beneficial, as it provides additional mechanisms for signaling bandwidth limits.",
+      "createdAt": "2026-08-23T07:58:22Z",
+      "updatedAt": "2026-08-23T07:58:22Z",
+      "closedAt": null,
+      "comments": []
     }
   ],
   "pulls": [
