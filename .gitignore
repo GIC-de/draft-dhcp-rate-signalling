@@ -19,6 +19,7 @@
 Gemfile.lock
 archive.json
 draft-giese-intarea-dhcp-rate-signaling.xml
+draft-ietf-intarea-dhcp-rate-signaling.xml
 package-lock.json
 report.xml
 !requirements.txt

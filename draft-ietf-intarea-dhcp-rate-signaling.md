@@ -1,11 +1,13 @@
 ---
 title: "DHCP Explicit Rate Signaling"
-docname: draft-giese-intarea-dhcp-rate-signaling-latest
+docname: draft-ietf-intarea-dhcp-rate-signaling-latest
 submissiontype: IETF
-date: 2026-07-30
+date: 2026-08-27
 ipr: trust200902
 category: info
 v: 3
+area: Internet Area
+workgroup: Internet Area Working Group
 
 venue:
    github: GIC-de/draft-dhcp-rate-signaling

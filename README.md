@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "DHCP Explicit Rate Signaling".
 
-* [Editor's Copy](https://GIC-de.github.io/draft-dhcp-rate-signaling/#go.draft-giese-intarea-dhcp-rate-signaling.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-giese-intarea-dhcp-rate-signaling)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-giese-intarea-dhcp-rate-signaling)
-* [Compare Editor's Copy to Individual Draft](https://GIC-de.github.io/draft-dhcp-rate-signaling/#go.draft-giese-intarea-dhcp-rate-signaling.diff)
+* [Editor's Copy](https://GIC-de.github.io/draft-dhcp-rate-signaling/#go.draft-ietf-intarea-dhcp-rate-signaling.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-intarea-dhcp-rate-signaling)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-intarea-dhcp-rate-signaling)
+* [Compare Editor's Copy to Individual Draft](https://GIC-de.github.io/draft-dhcp-rate-signaling/#go.draft-ietf-intarea-dhcp-rate-signaling.diff)
 
 
 ## Abstract
